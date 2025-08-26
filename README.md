@@ -1,7 +1,7 @@
 
 # Fashion Recommender System Using Transfer Learning
 
-This repository contains the code for my recreation of the **"Image Based Recommender System using Transfer Learning"** paper by Nikhil Kumar Singh and Abhimanyu Kumar from NIT Uttarakhand. The project implements a fashion recommender system using image embeddings generated through the pre-trained VGG16 model and transfer learning. The system recommends visually similar fashion items based solely on the images users interact with, leveraging cosine similarity for item retrieval.
+This repository contains the code for my recreation of the **"[Image Based Recommender System using Transfer Learning](https://ieeexplore.ieee.org/abstract/document/9848057)"** paper by Nikhil Kumar Singh and Abhimanyu Kumar from NIT Uttarakhand. The project implements a fashion recommender system using image embeddings generated through the pre-trained VGG16 model and transfer learning. The system recommends visually similar fashion items based solely on the images users interact with, leveraging cosine similarity for item retrieval.
 
 ## Differences from the Original Paper
 While the core methodology remains similar to the paper, there are some notable differences in this implementation:
